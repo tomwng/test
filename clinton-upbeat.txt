@@ -1,39 +1,49 @@
-It was 2001, and Bill Clinton was upbeat.
+It was 2000, and Bill Clinton was upbeat. The internet, he said, was opening up the world.
 
-“There’s no question China has been trying to crack down on the Internet,” he said. “Good luck. That’s sort of like trying to nail Jello to the wall.”
+“There’s no question China has been trying to crack down on the internet,” he said. “Good luck. That’s sort of like trying to nail Jell-O to the wall.”
 
-The internet would inevitably push China toward democracy, he said. How could any country control something so amorphous and still be technologically vibrant? Something would surely have to give.
+The internet would inevitably push China toward democracy, he said. How could any country control something so free-flowing and still hope to be technologically vibrant? Something would surely have to give.
 
-He was wrong. The whole West was wrong.
+He was wrong. 
 
-Today, China has the world’s only internet companies that can match America’s in ambition and reach.
+Today, China has the world’s only internet companies that can match America’s in ambition and reach. 
 
-It is years ahead of the United States in replacing paper money with smartphone payments, turning tech giants into vital gatekeepers of the consumer economy.
+It is years ahead of the United States in replacing paper money with smartphone payments, turning tech giants into vital gatekeepers of the consumer economy. 
 
-And it is host to a supernova of creative expression — on short videos, podcasts, blogs and streaming TV — that ought to dispel any notions of Chinese culture as drearily conformist.
+And it is host to a supernova of creative expression — in short videos, podcasts, blogs and streaming TV — that ought to dispel any notions of Chinese culture as drearily conformist.
 
-All of this on an internet walled off from Facebook and Google, policed by hundreds of thousands of Communist Party censors and fueled by billions of dollars in state investment. It has 700 million users, twice the population of the United States.
+All this, on a patch of cyberspace that is walled off from Facebook and Google, policed by tens of thousands of censors and subject to strict controls on how data gets collected, stored and shared. 
 
-Chinese tech giants do have regular run-ins with the government. But it would be wrong to mistake authoritarianism for hostility toward technology. In many ways, Chinese tech firms are less fettered than American ones. Witness the backlash against Big Data in the United States, the calls to regulate giants like Facebook, the anxiety about digital addiction. None of those are big problems for Chinese companies.
+China’s leaders like the internet they have created. And now, they want to direct the nation’s talent and tech acumen toward an even loftier end: building an innovation-driven economy, one that produces world-leading companies.
 
-Many Chinese internet powerhouses started out by copying Silicon Valley.
+Not long ago, Chinese tech firms were best known for copying Silicon Valley.
 
-But the flow of inspiration now runs both ways. American social media executives look to Tencent and Toutiao for the latest tricks for keeping users glued to their phones. (The video app Douyin, for instance, fills your screen entirely, blocking out the little clock at the top. That conveniently prevents you from seeing how many hours you’ve wasted flipping through videos.)
+But the flow of inspiration now runs both ways. American social media executives look to Tencent and Bytedance for the latest tricks for keeping users glued to their phones. 
+
+Tencent’s WeChat app, an all-in-one hub for socializing, playing games, paying bills, booking train tickets and more, paved the way for the increasingly feature-stuffed chat apps made by Facebook and Apple. Facebook recently took a page from TikTok, a Chinese service that is a sensation among Western tweens, by releasing its own, extremely similar app for creating goofy short videos.
+
+If people in the West didn’t see this coming, it was because they mistook China’s authoritarianism for hostility toward technology.
+
+But in some ways, Chinese tech firms are less fettered than American ones. Witness the backlash against Big Data in the United States, the calls to regulate giants like Facebook, the anxiety about digital addiction. None of those are big problems for Chinese companies.
 
 In China, there is pretty much only one rule, and it is simple: Don’t undermine the state.
 
 So titans like Weibo and Baidu heed censorship orders. Unwanted beliefs and ideologies are kept out.
 
-Beyond that, everything is fair game. Start-ups can achieve mammoth scale with astonishing speed; they can also crash brutally.
+Beyond that, everything is fair game. Start-ups can achieve mammoth scale with astonishing speed; they can also crash brutally. Thanks to weak intellectual property protections, they can rip one another off with abandon — not great for rewarding innovation, but O.K. for consumers, who get lots of choices.
 
-Thanks to weak intellectual property protections, they can rip one another off with abandon — not great for rewarding innovation, but OK for consumers, who get lots of choices.
+And the money just keeps flowing in.
 
-In another advantage, old-school industries like media, finance and health care have been dominated by lumbering state-run giants. That has allowed internet champions like Alibaba and Tencent to sew themselves into these businesses with ease. The two companies have been trying to disrupt healthcare in China since well before Amazon began experimenting with its employees’ coverage.
+In another advantage, old-school industries like media, finance and health care have been dominated by lumbering state-run giants. That has allowed internet champions like Alibaba and Tencent to sew themselves into these businesses with ease.
 
-This level of clout hasn’t gone unnoticed by China’s leaders. Never in the Communist era have private entities wielded such influence over people’s lives. More and more, tech firms need to make themselves useful to Beijing, or risk getting their wings clipped.
+With their mobile payment platforms, the two giants have built sprawling ecosystems in which vast amounts of commercial activity now take place. Little remains of daily life that has not been transformed. Shopping. Getting a loan. Renting a bike. Even going to the doctor.
 
-The Communist Party is demanding seats on companies’ boards. It’s forcing them to start spying on people and providing that information to the government.
+This level of clout hasn’t gone unnoticed by China’s leaders. Never in the Communist era have private entities wielded such influence over people’s lives. 
 
-Nearly everyone in China uses Tencent’s WeChat messaging app, which is why the social network is a great way for the authorities to police what people say and do. SenseTime, whose facial recognition technology powers those fun filters in video apps, also sells software to law enforcement.
+To keep tech in its place, the government is demanding stakes in companies and influence over management. Regulators have reprimanded online platforms for hosting content they deem distasteful — too raunchy, too flirty, too creepy or just too weird. 
 
-A restrictive state and a vibrant tech scene go together just fine — as long as they can continue to share.
+That’s why the best way for tech companies to thrive in China is to make themselves useful to the state. Nearly everyone in China uses WeChat, making the social network a great way for the authorities to police what people say and do. SenseTime, whose facial recognition technology powers those fun filters in video apps, also sells software to law enforcement.
+
+The risk for these companies is that the government demands more, sucking away resources that could be better spent chasing innovations or breaking into new markets. 
+
+In China, says Lance Noble of the research firm Gavekal Dragonomics, the government’s support “can be a blessing and a curse.”
